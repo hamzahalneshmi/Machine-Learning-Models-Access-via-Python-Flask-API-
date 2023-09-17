@@ -62,18 +62,6 @@ This script defines several API endpoints to facilitate model access and predict
 - `/train`: If needed, you can implement a training endpoint to fine-tune models.
 - `/info`: Retrieve information about the available models and their capabilities.
 
-## Examples
 
-To help you get started, we've included example code and use cases in the "examples" directory. These examples cover common machine learning tasks and demonstrate how to interact with the Flask API.
-
-Feel free to explore these examples to gain a better understanding of how to utilize the script for your projects.
-
-## Contributing
-
-Contributions to this project are welcome! Whether you want to add new features, fix bugs, or improve documentation, your contributions help make this tool even more valuable to the community. Please check the [Contributing Guidelines](CONTRIBUTING.md) for more details.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 
